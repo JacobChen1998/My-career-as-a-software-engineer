@@ -15,11 +15,11 @@ For projects completed during my employment, I will not be sharing any source co
 
 ## My First work - Industrial Technology Research Institute (工研院)
 1. Intelligent Surveillance Assistance and Care System (智慧監視輔助照護系統)
-  * Responsibilities : Design and Implementation of AI Recognition System Algorithms and Integration with Event Server
-  * 展覽: 2023 TIE(Taiwan Innotech Expo,台灣創新技術博覽會) [[Linkdin post](https://www.linkedin.com/posts/jing-yao-chen-323012236_this-year-our-team-has-developed-a-system-activity-7120061819364286464-4uiJ?utm_source=share&utm_medium=member_desktop)]
-  * 展覽: 2024 ATLife (Taiwan Assistive Technology and Long-Term Care Exhibition, 臺灣輔具暨長期照護大展) [[Linkdin post](https://www.linkedin.com/posts/jing-yao-chen-323012236_i-am-delighted-that-our-team-is-participating-activity-7205567449012789248-nwIx?utm_source=share&utm_medium=member_desktop)]
-  * Human Action Recognition System
-3. CPC
+     * Responsibilities : Design and Implementation of AI Recognition System Algorithms and Integration with Event Server
+     * 展覽: 2023 TIE(Taiwan Innotech Expo,台灣創新技術博覽會) [[Linkdin post](https://www.linkedin.com/posts/jing-yao-chen-323012236_this-year-our-team-has-developed-a-system-activity-7120061819364286464-4uiJ?utm_source=share&utm_medium=member_desktop)]
+     * 展覽: 2024 ATLife (Taiwan Assistive Technology and Long-Term Care Exhibition, 臺灣輔具暨長期照護大展) [[Linkdin post](https://www.linkedin.com/posts/jing-yao-chen-323012236_i-am-delighted-that-our-team-is-participating-activity-7205567449012789248-nwIx?utm_source=share&utm_medium=member_desktop)]
+     * Human Action Recognition System
+2. CPC
 
 ## Personal Portfolio (個人作品)
 1. PCA tracking
