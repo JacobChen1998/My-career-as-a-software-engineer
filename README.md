@@ -14,10 +14,14 @@ For projects completed during my employment, I will not be sharing any source co
 2. NCKU hosipital
 
 ## My First work - Industrial Technology Research Institute (工研院)
-1. 個人化全時全方位智慧監測輔助系統
+1. Intelligent Surveillance Assistance and Care System (智慧監視輔助照護系統)
+  * Responsibilities : Design and Implementation of AI Recognition System Algorithms and Integration with Event Server
   * 展覽: 2023 TIE(Taiwan Innotech Expo,台灣創新技術博覽會) [[Linkdin post](https://www.linkedin.com/posts/jing-yao-chen-323012236_this-year-our-team-has-developed-a-system-activity-7120061819364286464-4uiJ?utm_source=share&utm_medium=member_desktop)]
   * 展覽: 2024 ATLife (Taiwan Assistive Technology and Long-Term Care Exhibition, 臺灣輔具暨長期照護大展) [[Linkdin post](https://www.linkedin.com/posts/jing-yao-chen-323012236_i-am-delighted-that-our-team-is-participating-activity-7205567449012789248-nwIx?utm_source=share&utm_medium=member_desktop)]
+  * Human Action Recognition System
 3. CPC
 
 ## Personal Portfolio (個人作品)
 1. PCA tracking
+2. Pixel-scanning-removal-Hands11k-dataset (藉由pixel掃描機制對Hands-11k資料集進行手部裁切)[[Source Code](https://github.com/JacobChen1998/Pixel-scanning-removal-Hands11k-dataset)]
+3. CDC-Press-Release-Crawler (疾病署新聞稿網路爬蟲) [[Source Code](Centers for Disease Control and Prevention)]
