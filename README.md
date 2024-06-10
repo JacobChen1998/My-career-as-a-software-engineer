@@ -14,8 +14,10 @@ For projects completed during my employment, I will not be sharing any source co
 2. NCKU hosipital
 
 ## My First work - Industrial Technology Research Institute (工研院)
-1. CPC
-2. 個人化全時全方位智慧監測輔助系統
+1. 個人化全時全方位智慧監測輔助系統
+  * 展覽: 2023 TIE(Taiwan Innotech Expo,台灣創新技術博覽會) [Linkdin post](https://www.linkedin.com/posts/jing-yao-chen-323012236_this-year-our-team-has-developed-a-system-activity-7120061819364286464-4uiJ?utm_source=share&utm_medium=member_desktop)
+  * 展覽: 2024 ATLife (Taiwan Assistive Technology and Long-Term Care Exhibition, 臺灣輔具暨長期照護大展) [Linkdin post](https://www.linkedin.com/posts/jing-yao-chen-323012236_i-am-delighted-that-our-team-is-participating-activity-7205567449012789248-nwIx?utm_source=share&utm_medium=member_desktop)
+3. CPC
 
 ## Personal Portfolio (個人作品)
 1. PCA tracking
