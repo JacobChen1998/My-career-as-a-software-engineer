@@ -13,7 +13,7 @@ For projects completed during my employment, I will not be sharing any source co
 1. Thesis .....
 2. NCKU hosipital
 
-## My First work - Industrial Technology Research Institute (工研院)
+## My First work - Industrial Technology Research Institute (工研院) (2020-09 ~ Present)
 1. Intelligent Surveillance Assistance and Care System (智慧監視輔助照護系統)
      * Responsibilities : Design and Implementation of AI Recognition System Algorithms and Integration with Event Server
      * 展覽: 2023 TIE(Taiwan Innotech Expo,台灣創新技術博覽會) [[Linkdin post](https://www.linkedin.com/posts/jing-yao-chen-323012236_this-year-our-team-has-developed-a-system-activity-7120061819364286464-4uiJ?utm_source=share&utm_medium=member_desktop)]
