@@ -24,4 +24,4 @@ For projects completed during my employment, I will not be sharing any source co
 ## Personal Portfolio (個人作品)
 1. PCA tracking
 2. Pixel-scanning-removal-Hands11k-dataset (藉由pixel掃描機制對Hands-11k資料集進行手部裁切)[[Source Code](https://github.com/JacobChen1998/Pixel-scanning-removal-Hands11k-dataset)]
-3. CDC-Press-Release-Crawler (疾病署新聞稿網路爬蟲) [[Source Code](Centers for Disease Control and Prevention)]
+3. CDC-Press-Release-Crawler (疾病署新聞稿網路爬蟲) [[Source Code](https://github.com/JacobChen1998/CDC-Press-Release-Crawler)]
