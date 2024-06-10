@@ -13,12 +13,12 @@ For projects completed during my employment, I will not be sharing any source co
 1. Thesis .....
 2. NCKU hosipital
 
-## My First work - Industrial Technology Research Institute (工研院) (2020-09 ~ Present)
+## My First work - Industrial Technology Research Institute (工研院) (2022-09 ~ Present)
 1. Intelligent Surveillance Assistance and Care System (智慧監視輔助照護系統)
-     * Responsibilities : Design and Implementation of AI Recognition System Algorithms and Integration with Event Server
-     * 展覽: 2023 TIE(Taiwan Innotech Expo,台灣創新技術博覽會) [[Linkdin post](https://www.linkedin.com/posts/jing-yao-chen-323012236_this-year-our-team-has-developed-a-system-activity-7120061819364286464-4uiJ?utm_source=share&utm_medium=member_desktop)]
-     * 展覽: 2024 ATLife (Taiwan Assistive Technology and Long-Term Care Exhibition, 臺灣輔具暨長期照護大展) [[Linkdin post](https://www.linkedin.com/posts/jing-yao-chen-323012236_i-am-delighted-that-our-team-is-participating-activity-7205567449012789248-nwIx?utm_source=share&utm_medium=member_desktop)]
-     * Human Action Recognition System
+     * Responsibilities : Design and Implementation of AI Recognition System Algorithms and Integration with Event Server [[Readme](ReadmeLink)]
+     * 展覽: 2023 TIE(Taiwan Innotech Expo,台灣創新技術博覽會)  [[Readme](ReadmeLink)] [[Linkdin post](https://www.linkedin.com/posts/jing-yao-chen-323012236_this-year-our-team-has-developed-a-system-activity-7120061819364286464-4uiJ?utm_source=share&utm_medium=member_desktop)]
+     * 展覽: 2024 ATLife (Taiwan Assistive Technology and Long-Term Care Exhibition, 臺灣輔具暨長期照護大展)  [[Readme](ReadmeLink)] [[Linkdin post](https://www.linkedin.com/posts/jing-yao-chen-323012236_i-am-delighted-that-our-team-is-participating-activity-7205567449012789248-nwIx?utm_source=share&utm_medium=member_desktop)]
+     * Human Action Recognition System [[Readme](ReadmeLink)]
 2. CPC
 
 ## Personal Portfolio (個人作品)
