@@ -28,7 +28,7 @@ For projects completed during my employment, I will not be sharing any source co
 3. Streaming-with-Django-and-OpenCV (應用OpenCV在Django Server上顯示RTSP串流)[[Source Code](https://github.com/JacobChen1998/Streaming-with-Django-and-OpenCV)]
 4. Involution Example MNIST (在MNIST資料集實現內捲神經網路並在殘差網路結構進行測試)[[Source Code](https://github.com/JacobChen1998/Involution_Example_MNIST/tree/main)]
 5. Muscle-enhancing-via-Autoencoder [[Source Code]()]
-6. Self adaptive Feature tracking with PCA and Lucas-Kanade (利用PCA與LK光流進行任意物件(自適應物件大小)追蹤) [[Source Code](https://github.com/JacobChen1998/Self-adaptive-Feature-tracking-with-PCA-Lucas-Kanade)]
+6. Self adaptive Feature tracking with PCA and Lucas-Kanade (利用PCA與LK光流進行任意物件自適應大小追蹤) [[Source Code](https://github.com/JacobChen1998/Self-adaptive-Feature-tracking-with-PCA-Lucas-Kanade)]
 7. Feature tracking with PCA (利用PCA進行任意物件追蹤) [[Source Code](https://github.com/JacobChen1998/Feature-tracking-with-PCA)]
 8. Muscle-enhancing-via-Autoencoder [[Source Code](https://github.com/JacobChen1998/Deep-Feature-Encoding-with-MNIST-data)]
 9. Python-execute-MATLAB-code [[Source Code](https://github.com/JacobChen1998/Deep-Feature-Encoding-with-MNIST-data)]
