@@ -15,17 +15,16 @@ For projects completed during my employment, I will not be sharing any source co
 
 ## My First work - Industrial Technology Research Institute (工研院) (2022-09 ~ Present)
 1. Intelligent Surveillance Assistance and Care System (智慧監視輔助照護系統)
-     * Responsibilities : Design and Implementation of AI Recognition System Algorithms and Integration with Event Server [[Readme](ReadmeLink)]
+     * Responsibilities : Design and Implementation of AI Recognition System Algorithms and Integration with Event Server [[Readme]]
      * 展覽: 2023 TIE(Taiwan Innotech Expo,台灣創新技術博覽會)  [[Readme](ReadmeLink)] [[Linkdin post](https://www.linkedin.com/posts/jing-yao-chen-323012236_this-year-our-team-has-developed-a-system-activity-7120061819364286464-4uiJ?utm_source=share&utm_medium=member_desktop)]
      * 展覽: 2024 ATLife (Taiwan Assistive Technology and Long-Term Care Exhibition, 臺灣輔具暨長期照護大展)  [[Readme](ReadmeLink)] [[Linkdin post](https://www.linkedin.com/posts/jing-yao-chen-323012236_i-am-delighted-that-our-team-is-participating-activity-7205567449012789248-nwIx?utm_source=share&utm_medium=member_desktop)]
-     * Human Action Recognition System [[Readme](ReadmeLink)]
-     * Action Label Tool 1 [[Readme](ReadmeLink)]
-     * Action Label Tool 2 [[Readme](ReadmeLink)]
-     * Face Identity Binding Based on Human Tracking [[Readme](ReadmeLink)]
-     * Face Label Tool [[Readme](ReadmeLink)]
+     * Human Action Recognition System [[Readme]]
+     * Action Label Tool version 1&2 [[Readme](https://github.com/JacobChen1998/My-career-as-a-software-engineer/blob/main/readmes_itri/itri_CareSystem_SHOW_Tools_demo.md)]
+     * Face Identity Binding Based on Human Tracking [[Readme]]
+     * Face Label Tool [[Readme]]
     
 2. CPC Intelligent Security System (中油智能保全系統)
-     * Responsibilities : face recognition, Reverse Human and Vehicle Tracking, Lisence Plate Recognition [[Readme](ReadmeLink)]
+     * Responsibilities : face recognition, Reverse Human and Vehicle Tracking, Lisence Plate Recognition [[Readme]]
 
 ## Personal Portfolio (個人作品)
 
