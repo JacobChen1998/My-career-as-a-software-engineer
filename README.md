@@ -20,14 +20,14 @@ For projects completed during my employment, I will not be sharing any source co
      * 展覽: 2024 ATLife (Taiwan Assistive Technology and Long-Term Care Exhibition, 臺灣輔具暨長期照護大展)  [[Readme](ReadmeLink)] [[Linkdin post](https://www.linkedin.com/posts/jing-yao-chen-323012236_i-am-delighted-that-our-team-is-participating-activity-7205567449012789248-nwIx?utm_source=share&utm_medium=member_desktop)]
      * Human Action Recognition System [[Readme](ReadmeLink)]
 2. CPC Intelligent Security System (中油智能保全系統)
-     * Responsibilities : addddddddddddddddddd [[Readme](ReadmeLink)]
+     * Responsibilities : face recognition, Reverse Human and Vehicle Tracking, Lisence Plate Recognition [[Readme](ReadmeLink)]
 
 ## Personal Portfolio (個人作品)
 1. Real-Time Yolov8 Pose tracking Sequence  (多人歷史骨架資訊追蹤)[[Source Code](https://github.com/JacobChen1998/Real-Time-Yolov8-Pose-tracking-Sequence)]
 2. Video Add SubTitles with OpenAI Whisper (利用Whisper模型end2end影片字幕生成/翻譯)[[Source Code](https://github.com/JacobChen1998/VideoAddSubTitles_with_whisper)]
 3. Streaming-with-Django-and-OpenCV (應用OpenCV在Django Server上顯示RTSP串流)[[Source Code](https://github.com/JacobChen1998/Streaming-with-Django-and-OpenCV)]
 4. Involution Example MNIST (在MNIST資料集實現內捲神經網路並在殘差網路結構進行測試)[[Source Code](https://github.com/JacobChen1998/Involution_Example_MNIST/tree/main)]
-5. Muscle-enhancing-via-Autoencoder [[Source Code]()]
+5. Muscle-enhancing-via-Autoencoder (利用自動編碼器進行肌肉線條增強) [[Source Code](https://github.com/JacobChen1998?tab=repositories)]
 6. Self adaptive Feature tracking with PCA and Lucas-Kanade (利用PCA與LK光流進行任意物件自適應大小追蹤) [[Source Code](https://github.com/JacobChen1998/Self-adaptive-Feature-tracking-with-PCA-Lucas-Kanade)]
 7. Feature tracking with PCA (利用PCA進行任意物件追蹤) [[Source Code](https://github.com/JacobChen1998/Feature-tracking-with-PCA)]
 8. Muscle-enhancing-via-Autoencoder [[Source Code](https://github.com/JacobChen1998/Deep-Feature-Encoding-with-MNIST-data)]
