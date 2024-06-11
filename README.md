@@ -22,8 +22,8 @@ For projects completed during my employment, I will not be sharing any source co
      * Action Label Tool 1 [[Readme](ReadmeLink)]
      * Action Label Tool 2 [[Readme](ReadmeLink)]
      * Face Identity Binding Based on Human Tracking [[Readme](ReadmeLink)]
-     * Face Label Tool
-     * 
+     * Face Label Tool [[Readme](ReadmeLink)]
+    
 2. CPC Intelligent Security System (中油智能保全系統)
      * Responsibilities : face recognition, Reverse Human and Vehicle Tracking, Lisence Plate Recognition [[Readme](ReadmeLink)]
 
