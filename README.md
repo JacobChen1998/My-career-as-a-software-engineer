@@ -25,7 +25,9 @@ For projects completed during my employment, I will not be sharing any source co
 ## Personal Portfolio (個人作品)
 1. Real-Time Yolov8 Pose tracking Sequence  (多人歷史骨架資訊追蹤)[[Source Code](https://github.com/JacobChen1998/Real-Time-Yolov8-Pose-tracking-Sequence)]
 2. Video Add SubTitles with OpenAI Whisper (利用Whisper模型end2end影片字幕生成/翻譯)[[Source Code](https://github.com/JacobChen1998/VideoAddSubTitles_with_whisper)]
-3. Self adaptive Feature tracking with PCA and Lucas-Kanade (利用PCA與LK光流進行任意物件(自適應物件大小)追蹤) [[Source Code](https://github.com/JacobChen1998/Self-adaptive-Feature-tracking-with-PCA-Lucas-Kanade)]
-4. Feature tracking with PCA (利用PCA進行任意物件追蹤) [[Source Code](https://github.com/JacobChen1998/Feature-tracking-with-PCA)]
-5. Pixel-scanning removal Hands11k dataset (藉由pixel掃描機制對Hands-11k資料集進行手部裁切)[[Source Code](https://github.com/JacobChen1998/Pixel-scanning-removal-Hands11k-dataset)]
-6. CDC Press Release Crawler (疾病署新聞稿網路爬蟲) [[Source Code](https://github.com/JacobChen1998/CDC-Press-Release-Crawler)]
+3. Streaming-with-Django-and-OpenCV (應用OpenCV在Django Server上顯示RTSP串流)[[Source Code](https://github.com/JacobChen1998/Streaming-with-Django-and-OpenCV)]
+4. Involution Example MNIST (在MNIST資料集實現內捲神經網路並在殘差網路結構進行測試)[[Source Code](https://github.com/JacobChen1998/Involution_Example_MNIST/tree/main)]
+5. Self adaptive Feature tracking with PCA and Lucas-Kanade (利用PCA與LK光流進行任意物件(自適應物件大小)追蹤) [[Source Code](https://github.com/JacobChen1998/Self-adaptive-Feature-tracking-with-PCA-Lucas-Kanade)]
+6. Feature tracking with PCA (利用PCA進行任意物件追蹤) [[Source Code](https://github.com/JacobChen1998/Feature-tracking-with-PCA)]
+7. Pixel-scanning removal Hands11k dataset (藉由pixel掃描機制對Hands-11k資料集進行手部裁切)[[Source Code](https://github.com/JacobChen1998/Pixel-scanning-removal-Hands11k-dataset)]
+8. CDC Press Release Crawler (疾病署新聞稿網路爬蟲) [[Source Code](https://github.com/JacobChen1998/CDC-Press-Release-Crawler)]
