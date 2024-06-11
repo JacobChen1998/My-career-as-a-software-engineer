@@ -19,6 +19,11 @@ For projects completed during my employment, I will not be sharing any source co
      * 展覽: 2023 TIE(Taiwan Innotech Expo,台灣創新技術博覽會)  [[Readme](ReadmeLink)] [[Linkdin post](https://www.linkedin.com/posts/jing-yao-chen-323012236_this-year-our-team-has-developed-a-system-activity-7120061819364286464-4uiJ?utm_source=share&utm_medium=member_desktop)]
      * 展覽: 2024 ATLife (Taiwan Assistive Technology and Long-Term Care Exhibition, 臺灣輔具暨長期照護大展)  [[Readme](ReadmeLink)] [[Linkdin post](https://www.linkedin.com/posts/jing-yao-chen-323012236_i-am-delighted-that-our-team-is-participating-activity-7205567449012789248-nwIx?utm_source=share&utm_medium=member_desktop)]
      * Human Action Recognition System [[Readme](ReadmeLink)]
+     * Action Label Tool 1 [[Readme](ReadmeLink)]
+     * Action Label Tool 2 [[Readme](ReadmeLink)]
+     * Face Identity Binding Based on Human Tracking [[Readme](ReadmeLink)]
+     * Face Label Tool
+     * 
 2. CPC Intelligent Security System (中油智能保全系統)
      * Responsibilities : face recognition, Reverse Human and Vehicle Tracking, Lisence Plate Recognition [[Readme](ReadmeLink)]
 
