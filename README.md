@@ -28,7 +28,7 @@ For projects completed during my employment, I will not be sharing any source co
 
 ## Personal Portfolio (個人作品)
 
-1. Django E-commerce Website (商品電商訂單系統) [Will Upload Recently]
+1. Django E-commerce Website (商品電商訂單系統) [[Source Code](https://github.com/JacobChen1998/Django-E-commerce-Website)]
 2. Real-Time Yolov8 Pose tracking Sequence  (多人歷史骨架資訊追蹤)[[Source Code](https://github.com/JacobChen1998/Real-Time-Yolov8-Pose-tracking-Sequence)]
 3. Video Add SubTitles with OpenAI Whisper (利用Whisper模型end2end影片字幕生成/翻譯)[[Source Code](https://github.com/JacobChen1998/VideoAddSubTitles_with_whisper)]
 4. Streaming-with-Django-and-OpenCV (應用OpenCV在Django Server上顯示RTSP串流)[[Source Code](https://github.com/JacobChen1998/Streaming-with-Django-and-OpenCV)]
