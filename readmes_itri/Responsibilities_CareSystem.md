@@ -24,4 +24,4 @@
 * 動作辨識模組開發
 * 人臉辨識模組開發
 * Share Memory多串流影像共享機制開發
-* Bytetrack algorithm 開發"參考歷史搜尋機制"、"關鍵點相似度比對機制"，大幅改善ID change (相同人員生成新ID) & switch (人員id錯誤調換)狀況
+* Bytetrack algorithm 改進，開發"參考歷史搜尋機制"、"關鍵點相似度比對機制"，大幅改善ID change (相同人員生成新ID) & switch (人員id錯誤調換)狀況
