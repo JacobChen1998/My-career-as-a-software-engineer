@@ -14,7 +14,7 @@ For projects completed during my employment, I will not be sharing any source co
      * 建構AutoEncoder架構進行手部特徵學習，使用sliding window框架進行手部特徵萃取並透過Encoder部分進行特徵編碼，透過殘差平方和(SSR)進行相似度計算，找到最相似手部特徵位置。
      * 於論文中，使用手部物理位置進行約束，並使用皮膚過濾器進行RGB影像前處理，使用MediaPipe與OpenPose做為比較方法，追蹤精度優於此兩者。
 2. 重要經歷:
-     * OpenCV AI competetion 2022 作品進入決賽
+     * OpenCV AI competetion 2021 作品進入決賽 [link](https://bitbucket.org/nordlinglab/opencv_ai_competition_2021/src/master/)
      * 成大醫院進行拍金森式症患者資料收集與資料分析，進行顫抖程度量化
      * 當任助教 : 成大機械所碩士班課程-人工智慧導論
        
