@@ -10,8 +10,9 @@ For projects completed during my employment, I will not be sharing any source co
 
 ## Master's studies - National Cheng Kung University in Nordling LAB (2020-07 ~ 2022-08)
 
-1. Thesis .....
-2. NCKU hosipital
+1. Thesis : Hand Tracking with Deep Feature Encoding 利用深度特徵編碼進行手部追蹤
+     * 建構AutoEncoder架構進行手部特徵學習，使用sliding window框架進行手部特徵萃取並透過Encoder部分進行特徵編碼，透過殘差平方和(SSR)進行相似度計算，找到最相似手部特徵位置。
+     * 於論文中，使用手部物理位置進行約束，並使用皮膚過濾器進行RGB影像前處理，使用MediaPipe與OpenPose做為比較方法，追蹤精度優於此兩者。
 
 ## My First work - Industrial Technology Research Institute (工研院) (2022-09 ~ Present)
 1. Intelligent Surveillance Assistance and Care System (智慧監視輔助照護系統)
